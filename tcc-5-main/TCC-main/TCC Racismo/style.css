@@ -1,0 +1,15 @@
+.card{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+    background: white;
+    margin-bottom: 2rem;
+    }
+
+    h1{
+    text-align: center;
+    }
+
+.parte1{
+align-items: center ;
+}
